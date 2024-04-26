@@ -1,7 +1,7 @@
 ﻿namespace Fibonacci{
     static class Problema{
         static void Main(String[] args){
-            int[] valores = new int[32];
+            int[] valores = new int[34];
             int suma = 0;
 
             valores[0] = 1;

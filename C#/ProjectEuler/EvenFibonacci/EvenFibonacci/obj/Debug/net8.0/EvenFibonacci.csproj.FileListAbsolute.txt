@@ -1,0 +1,15 @@
+C:\Users\zero\Documents\C#\ProjectEuler-1\C#\ProjectEuler\EvenFibonacci\EvenFibonacci\bin\Debug\net8.0\EvenFibonacci.exe
+C:\Users\zero\Documents\C#\ProjectEuler-1\C#\ProjectEuler\EvenFibonacci\EvenFibonacci\bin\Debug\net8.0\EvenFibonacci.deps.json
+C:\Users\zero\Documents\C#\ProjectEuler-1\C#\ProjectEuler\EvenFibonacci\EvenFibonacci\bin\Debug\net8.0\EvenFibonacci.runtimeconfig.json
+C:\Users\zero\Documents\C#\ProjectEuler-1\C#\ProjectEuler\EvenFibonacci\EvenFibonacci\bin\Debug\net8.0\EvenFibonacci.dll
+C:\Users\zero\Documents\C#\ProjectEuler-1\C#\ProjectEuler\EvenFibonacci\EvenFibonacci\bin\Debug\net8.0\EvenFibonacci.pdb
+C:\Users\zero\Documents\C#\ProjectEuler-1\C#\ProjectEuler\EvenFibonacci\EvenFibonacci\obj\Debug\net8.0\EvenFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zero\Documents\C#\ProjectEuler-1\C#\ProjectEuler\EvenFibonacci\EvenFibonacci\obj\Debug\net8.0\EvenFibonacci.AssemblyInfoInputs.cache
+C:\Users\zero\Documents\C#\ProjectEuler-1\C#\ProjectEuler\EvenFibonacci\EvenFibonacci\obj\Debug\net8.0\EvenFibonacci.AssemblyInfo.cs
+C:\Users\zero\Documents\C#\ProjectEuler-1\C#\ProjectEuler\EvenFibonacci\EvenFibonacci\obj\Debug\net8.0\EvenFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\zero\Documents\C#\ProjectEuler-1\C#\ProjectEuler\EvenFibonacci\EvenFibonacci\obj\Debug\net8.0\EvenFibonacci.sourcelink.json
+C:\Users\zero\Documents\C#\ProjectEuler-1\C#\ProjectEuler\EvenFibonacci\EvenFibonacci\obj\Debug\net8.0\EvenFibonacci.dll
+C:\Users\zero\Documents\C#\ProjectEuler-1\C#\ProjectEuler\EvenFibonacci\EvenFibonacci\obj\Debug\net8.0\refint\EvenFibonacci.dll
+C:\Users\zero\Documents\C#\ProjectEuler-1\C#\ProjectEuler\EvenFibonacci\EvenFibonacci\obj\Debug\net8.0\EvenFibonacci.pdb
+C:\Users\zero\Documents\C#\ProjectEuler-1\C#\ProjectEuler\EvenFibonacci\EvenFibonacci\obj\Debug\net8.0\EvenFibonacci.genruntimeconfig.cache
+C:\Users\zero\Documents\C#\ProjectEuler-1\C#\ProjectEuler\EvenFibonacci\EvenFibonacci\obj\Debug\net8.0\ref\EvenFibonacci.dll
